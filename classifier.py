@@ -1,6 +1,4 @@
 """
-classifier.py — Task 4: Classification Models (Traditional + Deep Learning).
-
 Responsibilities:
   - Train/test split
   - Logistic Regression with TF-IDF features

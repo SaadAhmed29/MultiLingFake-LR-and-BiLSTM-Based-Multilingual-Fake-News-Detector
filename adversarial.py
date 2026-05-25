@@ -1,6 +1,4 @@
 """
-adversarial.py — Task 5: Adversarial Robustness Analysis.
-
 Attack types:
   1. Typo Injection        — keyboard-adjacent character substitutions
   2. Synonym Replacement   — swap words with domain synonyms
