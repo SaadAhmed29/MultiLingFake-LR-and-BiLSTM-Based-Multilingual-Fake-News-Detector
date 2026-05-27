@@ -216,7 +216,6 @@ Five attack functions are applied independently to 120 correctly-classified test
 
 ## Results Summary
 
-*(Fill these in after your run)*
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
